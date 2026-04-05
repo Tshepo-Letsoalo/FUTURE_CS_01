@@ -16,7 +16,7 @@ This repository serves as the primary technical documentation for the Cyber Secu
 ### **Task 1: Vulnerability Assessment and Reporting**
 - **Objective:** Identify security weaknesses in a target system or web application and document potential risks to infrastructure.
 - **Tools Used:** Identify security weaknesses on a target host using Nmap/Zenmap.
-- **Outcome:** *Pending implementation.*
+- **Status:** *Vulnerabilities Identified; Patching Recommended.*
 
 ### **Task 2: Network Traffic Analysis**
 - **Objective:** Capture and analyze network packets to identify suspicious patterns, unauthorised access attempts, or data leaks.
