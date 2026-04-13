@@ -1,1 +1,12 @@
-This risk analysis demonstrates a comprehensive understanding of API security vulnerabilities and practical remediation strategies. All findings are documented with technical evidence to ensure a transparent and actionable security audit.
+# Task 3: API Security Risk Analysis (SaaS Skill)
+**Status:** Submitted / Review Pending  
+**Objective:** Conduct a read-only security audit of a REST API using industry-standard tools.
+
+### Key Findings
+- **Excessive Data Exposure:** Identified PII (GPS coordinates) being returned unnecessarily in JSON payloads.
+- **Security Misconfigurations:** Noted missing HSTS and CSP headers in the response metadata.
+
+### Tools Used
+- Postman (Desktop Agent)
+- Postbot AI (Automated Security Testing)
+- OWASP API Security Top 10 Framework
