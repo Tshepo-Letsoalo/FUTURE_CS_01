@@ -8,5 +8,4 @@
 - Implemented a standard naming convention for all technical deliverables.
 
 ### Tools Used
-- GitHub Desktop
-- Markdown
+Identified security weaknesses on a target host using Nmap/Zenmap.
