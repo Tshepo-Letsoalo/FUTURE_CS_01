@@ -13,6 +13,7 @@ Project Objectives
 This repository serves as the primary technical documentation for the Cyber Security Fellowship at Future Interns. The program focuses on structured, hands-on exposure to cybersecurity fundamentals and industry-aligned security practices. This workspace tracks the progress and implementation of assigned security tasks.
 
 Technical Tasks & Deliverables
+
 Task 1: Academic & Professional Portfolio Setup
 Objective: Establish a centralized, professional repository to showcase academic transcripts and technical certifications from IBM, Google, and Huawei.
 
