@@ -9,4 +9,4 @@
 ### Tools Used
 - Postman (Desktop Agent)
 - Postbot AI (Automated Security Testing)
-- OWASP API Security Top 10 Framework
+- OWASP API (Security Top 10 Framework)
