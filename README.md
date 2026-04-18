@@ -34,7 +34,7 @@ Tools Used: Postman (Desktop Agent), Postbot AI, OWASP API Security Top 10.
 Status: ✅ Completed
 
 About the Intern
-BSc in Computer Science student with a 4.0 CGPA. Focus on building professional technical portfolios and mastering cybersecurity defense. This fellowship complements a background in Network Security (Huawei ICT Academy) and professional cybersecurity credentials (IBM SkillsBuild and Google).
+BSc in Computer Science student with a 4.0 CGPA. Focused on building professional technical portfolios and mastering cybersecurity defense. This fellowship complements a background in Network Security (Huawei ICT Academy) and professional cybersecurity credentials (IBM SkillsBuild and Google).
 
 Certification & Verification
 Upon successful completion of the fellowship requirements, the following credentials were issued:
