@@ -1,5 +1,6 @@
 # Task 3: API Security Risk Analysis (SaaS Skill)
-**Status:** Completed 
+**Status:** Completed
+
 **Objective:** Conduct a read-only security audit of a REST API using industry-standard tools.
 
 ### Key Findings
