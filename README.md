@@ -5,7 +5,7 @@ Intern Name: Tshepo Eugene Letsoalo
 
 Internship ID (CIN): FIT/MAR26/CS7439
 
-Duration: April 2, 2026 – May 2, 2026
+Duration: March 2, 2026 – April 2, 2026
 
 Domain: Cyber Security
 
