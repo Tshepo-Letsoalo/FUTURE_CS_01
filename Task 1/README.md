@@ -1,11 +1,13 @@
-# Task 1: Academic & Professional Documentation
+# Task 1: Host Reconnaissance & Vulnerability Assessment
+
 **Status:** Completed  
-**Objective:** Establish a centralized, professional repository for academic results and technical certifications.
+**Objective:** Perform proactive host reconnaissance, network mapping, and OS fingerprinting using automated utilities to discover active services and analyze the attack surface of a remote target.
 
 ### Methodology
-- Compiled academic transcripts and certificates from IBM, Google, and Huawei.
-- Structured repository for easy navigation by recruiters.
-- Implemented a standard naming convention for all technical deliverables.
+- Target Environment: scanme.nmap.org
+- Scanning Engine: Leveraged the Zenmap GUI backed by Nmap 7.99.
+- Scan Configuration: Executed an Intensive Scan with OS and version detection using the parameters: nmap -T4 -A -v.
+- Script Auditing: Ran 158 Nmap Scripting Engine (NSE) scripts to cross-reference discovered protocols against known misconfigurations.
 
 ### Tools Used
-Identified security weaknesses on a target host using Nmap/Zenmap.
+- Nmap / Zenmap (Intensive Scan Engine)
