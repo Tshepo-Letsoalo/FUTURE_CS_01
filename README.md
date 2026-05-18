@@ -14,8 +14,8 @@ This repository serves as the primary technical documentation for the Cyber Secu
 
 Technical Tasks & Deliverables
 
-Task 1: Academic & Professional Portfolio Setup
-Objective: Establish a centralized, professional repository to showcase academic transcripts and technical certifications from IBM, Google, and Huawei.
+Task 1: Host Reconnaissance & Vulnerability Assessment
+Objective: Perform proactive host reconnaissance, network mapping, and OS fingerprinting using automated utilities to discover active services and analyze the attack surface of a remote target.
 
 Status: ✅ Completed
 
