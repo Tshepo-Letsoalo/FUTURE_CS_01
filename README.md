@@ -34,7 +34,10 @@ Tools Used: Postman (Desktop Agent), Postbot AI, OWASP API Security Top 10.
 Status: ✅ Completed
 
 About the Intern
-BSc in Computer Science student with a 4.0 CGPA. Focused on building professional technical portfolios and mastering cybersecurity defense. This fellowship complements a background in Network Security (Huawei ICT Academy) and professional cybersecurity credentials (IBM SkillsBuild and Google).
+
+This remote fellowship is a technically rigorous program designed to simulate practical, real-world security engineering responsibilities. Rather than focusing on theoretical work, the program mandates independent execution of hands-on security tasks, extensive technical reporting, and repository transparency.
+The fellowship focuses on bridging the gap between foundational security knowledge and enterprise-level engineering. Interns build a professional portfolio by conducting live-environment scans, performing risk analysis against industry frameworks, and presenting data-driven mitigation strategies to protect organizational infrastructure.
+
 
 Certification & Verification
 Upon successful completion of the fellowship requirements, the following credentials were issued:
