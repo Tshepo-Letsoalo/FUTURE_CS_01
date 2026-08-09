@@ -16,19 +16,25 @@ This repository serves as the primary technical documentation for the Cyber Secu
 Technical Tasks & Deliverables
 
 Task 1: Host Reconnaissance & Vulnerability Assessment
-Objective: Perform proactive host reconnaissance, network mapping, and OS fingerprinting using automated utilities to discover active services and analyze the attack surface of a remote target.
+Objective
+
+Perform proactive host reconnaissance, network mapping, and OS fingerprinting using automated utilities to discover active services and analyze the attack surface of a remote target.
 
 Status: ✅ Completed
 
 Task 2: Phishing Detection & Awareness
-Objective: Analyze social engineering tactics and develop a Standard Operating Procedure (SOP) for identifying and mitigating phishing attempts.
+Objective
+
+Analyze social engineering tactics and develop a Standard Operating Procedure (SOP) for identifying and mitigating phishing attempts.
 
 Tools Used: Security Research Frameworks, Microsoft Word (Professional Reporting).
 
 Status: ✅ Completed
 
 Task 3: API Security Risk Analysis (Modern SaaS Skill)
-Objective: Conduct a read-only security audit of a REST API to identify vulnerabilities like excessive data exposure and security misconfigurations.
+Objective
+
+Conduct a read-only security audit of a REST API to identify vulnerabilities like excessive data exposure and security misconfigurations.
 
 Tools Used: Postman (Desktop Agent), Postbot AI, OWASP API Security Top 10.
 
