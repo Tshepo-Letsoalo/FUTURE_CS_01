@@ -22,6 +22,7 @@ Perform proactive host reconnaissance, network mapping, and OS fingerprinting us
 
 Status: ✅ Completed
 
+
 Task 2: Phishing Detection & Awareness
 Objective
 
@@ -30,6 +31,7 @@ Analyze social engineering tactics and develop a Standard Operating Procedure (S
 Tools Used: Security Research Frameworks, Microsoft Word (Professional Reporting).
 
 Status: ✅ Completed
+
 
 Task 3: API Security Risk Analysis (Modern SaaS Skill)
 Objective
@@ -40,6 +42,8 @@ Tools Used: Postman (Desktop Agent), Postbot AI, OWASP API Security Top 10.
 
 Status: ✅ Completed
 
+
+
 About the Intern:
 
 This remote fellowship is a technically rigorous program designed to simulate practical, real-world security engineering responsibilities. Rather than focusing on theoretical work, the program mandates independent execution of hands-on security tasks, extensive technical reporting, and repository transparency.
@@ -47,10 +51,13 @@ The fellowship focuses on bridging the gap between foundational security knowled
 
 
 Certification & Verification
+
 Upon successful completion of the fellowship requirements, the following credentials were issued:
 
-Completion Certificate
+- Completion Certificate
 
-Letter of Recommendation (LoR)
+- Letter of Recommendation (LoR)
 
 Verified by Future Interns (MSME Registered: UDYAM-KR-03-0414782)
+
+
